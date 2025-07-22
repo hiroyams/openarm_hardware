@@ -16,4 +16,4 @@ Please make sure [our license](https://github.com/enactic/openarm_hardware/blob/
 
 ## Others?
 
-Please share it on [Discord](https://discord.gg/FsZaZ4z3We) or [GitHub Discussions](https://github.com/enactic/openarm_hardware/discussions)!
+Please share it on [Discord](https://discord.gg/tpnKxHuJY3) or [GitHub Discussions](https://github.com/enactic/openarm_hardware/discussions)!
