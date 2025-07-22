@@ -5,7 +5,7 @@ OpenArm CAD data and information for manufacturing.
 ## Related links
 
 * 📚 Read the [documentation](https://docs.openarm.dev/hardware/)
-* 💬 Join the community on [Discord](https://discord.gg/FsZaZ4z3We)
+* 💬 Join the community on [Discord](https://discord.gg/tpnKxHuJY3)
 * 📬 Contact us through <openarm@enactic.ai>
 
 ## License
