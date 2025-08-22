@@ -12,6 +12,7 @@ Welcome to the OpenArm hardware repository! This repository contains all the nec
 - **STEP Files**: For manufacturing and modification
 - **Sample Assemblies**: We provide sample assembly files to help you get started
   - [Autodesk Fusion](https://a360.co/4kUyEb5)
+  - [SolidWorks](https://github.com/enactic/openarm_hardware/tree/main/SolidWorks)
 > **Contribute assemblies** for other CAD platforms via pull request! We'd love to expand our library! If you create assemblies in SolidWorks, Inventor, OnShape, or any other CAD software, please share them with the community. Your contributions help makers worldwide get up and running faster.
 
 ## Contributing
